@@ -4,3 +4,8 @@
   text-align: center;
   color: purple;
 }
+.gif {
+  text-align: center;
+  display:block;
+  margin: auto;
+}
